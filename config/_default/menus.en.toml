@@ -43,6 +43,11 @@ url = "categories/"
 
 [[main]]
 parent = "Pages"
+name = "Essays"
+url = "essays/"
+
+[[main]]
+parent = "Pages"
 name = "404 Page"
 url = "404/"
 
