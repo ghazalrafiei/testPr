@@ -1,8 +1,10 @@
 ---
-title: "Incomprehensible_Human_Brain"
+title: "Incomprehensible Human Brain"
 date: 2024-02-06T20:14:08-08:00
-draft: fasle
+draft: false
 ---
+
+[Link to this article on medium](https://medium.com/@girraffael/uncomprehensible-human-brain-016cfa43772a)
 
 _“If the human brain were so simple that we could understand it, we would be so simple that we couldn’t.” ― Emerson M. Pugh_
 
